@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 0362c199c1d8741448df5d79252f49d0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - capsuleSound: {fileID: 8300000, guid: d23ffad9f34e1ea4ab5b392df4c6df5c, type: 3}
+  - couleurs: {fileID: 400000, guid: 9c5bd6070cd5d481abdb8755ff51fd7a, type: 2}
+  - looseSound: {fileID: 8300000, guid: 33133b30d8c01f645ae8a8e71367542e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
